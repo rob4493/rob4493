@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Robert Cardenas Jr
 
-### Cybersecurity Graduate | Incoming NYU Information Systems & Technology Student | AI Operations | IT Support | Python Developer
+### Incoming NYU Information Systems & Technology Student | AI Operations | IT Support | Python Developer
 
 Welcome! I'm passionate about building technology that solves real-world problems through automation, artificial intelligence, cybersecurity, and data-driven decision making.
 
