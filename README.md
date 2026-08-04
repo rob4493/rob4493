@@ -34,7 +34,7 @@ Artificial Intelligence is a core part of both my professional experience and my
 
 Professionally I have worked on AI quality evaluation and response validation projects.
 
-Personally I leverage AI to accelerate software development while ensuring I understand, review, modify, and test every solution I build.
+Personally, I leverage AI to accelerate learning, technical problem-solving, and project development while ensuring I understand, review, modify, and thoroughly test every solution before implementation.
 
 ### Experience
 
